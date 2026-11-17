@@ -1,0 +1,4 @@
+project_id = "lecture-ai"
+
+[functions.generate-study-materials]
+verify_jwt = true
